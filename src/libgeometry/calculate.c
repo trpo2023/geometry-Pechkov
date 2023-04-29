@@ -41,4 +41,3 @@ void triangle_calculate(Triangle* tr)
     tr->area = calculate_area_triangle(tr);
     tr->perimeter = calculate_perimetr_triangle(tr);
 }
-
